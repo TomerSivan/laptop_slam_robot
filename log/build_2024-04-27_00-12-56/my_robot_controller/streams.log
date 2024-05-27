@@ -1,0 +1,39 @@
+[1.952s] Invoking command in '/home/tomersi2/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/tomersi2/ros2_ws/src/build/my_robot_controller/prefix_override:/home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/tomersi2/ros2_ws/src/build/my_robot_controller/build install --record /home/tomersi2/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed
+[2.507s] running egg_info
+[2.508s] creating ../build/my_robot_controller/my_robot_controller.egg-info
+[2.509s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[2.510s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[2.510s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[2.511s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[2.511s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[2.511s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.515s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.517s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.517s] running build
+[2.518s] running build_py
+[2.518s] creating /home/tomersi2/ros2_ws/src/build/my_robot_controller/build
+[2.518s] creating /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib
+[2.519s] creating /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[2.519s] copying my_robot_controller/joystick_controller.py -> /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[2.519s] copying my_robot_controller/__init__.py -> /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[2.520s] running install
+[2.520s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.520s]   warnings.warn(
+[2.521s] running install_lib
+[2.523s] creating /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.523s] copying /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/joystick_controller.py -> /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.523s] copying /home/tomersi2/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.524s] byte-compiling /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/joystick_controller.py to joystick_controller.cpython-310.pyc
+[2.526s] byte-compiling /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[2.526s] running install_data
+[2.528s] creating /home/tomersi2/ros2_ws/src/install/my_robot_controller/share/ament_index
+[2.528s] creating /home/tomersi2/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index
+[2.529s] creating /home/tomersi2/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.529s] copying resource/my_robot_controller -> /home/tomersi2/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.529s] copying package.xml -> /home/tomersi2/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[2.529s] running install_egg_info
+[2.532s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[2.534s] running install_scripts
+[2.580s] Installing joystick_controller script to /home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[2.581s] writing list of installed files to '/home/tomersi2/ros2_ws/src/build/my_robot_controller/install.log'
+[2.635s] Invoked command in '/home/tomersi2/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/tomersi2/ros2_ws/src/build/my_robot_controller/prefix_override:/home/tomersi2/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/tomersi2/ros2_ws/src/build/my_robot_controller/build install --record /home/tomersi2/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed
